@@ -2,7 +2,6 @@
 #include <string>
 #include <stdio.h>
 #include <fstream>
-#pragma warning(disable : 4996)
 #define INFO_BUFFER_SIZE 32767
 
 LRESULT CALLBACK WndProc(HWND hWnd, UINT msg, WPARAM wParam, LPARAM IParam)
